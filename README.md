@@ -28,5 +28,4 @@ Este projeto utiliza **Google Apps Script** para automatizar o envio de notifica
 ## Contribuições  
 Contribuições são bem-vindas! Abra issues ou envie pull requests para melhorias.  
 
-## Licença  
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.  
+
